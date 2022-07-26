@@ -8,7 +8,7 @@ import pyperclip as pc # install paperclip for copy function
 from gtts import gTTS  # install gTTS for texttospeech,speechtotext functionality
 import os
 import speech_recognition as spr # install speech recognition for speechtotext functionality
-import pyttsx3
+
 
 
 root = tk.Tk()
